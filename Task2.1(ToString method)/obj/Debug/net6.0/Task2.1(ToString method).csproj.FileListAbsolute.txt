@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Code Academy Tasks\Task2.1(ToString method)\Task2.1(ToString method)\bin\Debug\net6.0\Task2.1(ToString method).exe
+C:\Users\user\Desktop\Code Academy Tasks\Task2.1(ToString method)\Task2.1(ToString method)\bin\Debug\net6.0\Task2.1(ToString method).deps.json
+C:\Users\user\Desktop\Code Academy Tasks\Task2.1(ToString method)\Task2.1(ToString method)\bin\Debug\net6.0\Task2.1(ToString method).runtimeconfig.json
+C:\Users\user\Desktop\Code Academy Tasks\Task2.1(ToString method)\Task2.1(ToString method)\bin\Debug\net6.0\Task2.1(ToString method).dll
+C:\Users\user\Desktop\Code Academy Tasks\Task2.1(ToString method)\Task2.1(ToString method)\bin\Debug\net6.0\Task2.1(ToString method).pdb
+C:\Users\user\Desktop\Code Academy Tasks\Task2.1(ToString method)\Task2.1(ToString method)\obj\Debug\net6.0\Task2.1(ToString method).csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Code Academy Tasks\Task2.1(ToString method)\Task2.1(ToString method)\obj\Debug\net6.0\Task2.1(ToString method).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Code Academy Tasks\Task2.1(ToString method)\Task2.1(ToString method)\obj\Debug\net6.0\Task2.1(ToString method).AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Code Academy Tasks\Task2.1(ToString method)\Task2.1(ToString method)\obj\Debug\net6.0\Task2.1(ToString method).AssemblyInfo.cs
+C:\Users\user\Desktop\Code Academy Tasks\Task2.1(ToString method)\Task2.1(ToString method)\obj\Debug\net6.0\Task2.1(ToString method).csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Code Academy Tasks\Task2.1(ToString method)\Task2.1(ToString method)\obj\Debug\net6.0\Task2.1(ToString method).dll
+C:\Users\user\Desktop\Code Academy Tasks\Task2.1(ToString method)\Task2.1(ToString method)\obj\Debug\net6.0\refint\Task2.1(ToString method).dll
+C:\Users\user\Desktop\Code Academy Tasks\Task2.1(ToString method)\Task2.1(ToString method)\obj\Debug\net6.0\Task2.1(ToString method).pdb
+C:\Users\user\Desktop\Code Academy Tasks\Task2.1(ToString method)\Task2.1(ToString method)\obj\Debug\net6.0\Task2.1(ToString method).genruntimeconfig.cache
+C:\Users\user\Desktop\Code Academy Tasks\Task2.1(ToString method)\Task2.1(ToString method)\obj\Debug\net6.0\ref\Task2.1(ToString method).dll
